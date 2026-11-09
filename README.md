@@ -1,2 +1,2 @@
 # Simple-Java-Plane-game--IA-Project-
-Turn-based Java Swing bomb-drop game — player and AI alternate dropping payloads from a moving plane using real projectile physics, with 3 AI difficulty levels
+Turn-based 2D payload-drop game built in Java Swing utilizing real kinematic projectile physics to simulate payload falling trajectories. Features a continuous animation game loop and a scene-switching state machine that handles seamless transitions across menus, active gameplay, and end-game screens. Includes an autonomous opponent AI across three difficulty tiers, scaling from randomized drop timings up to predictive trajectory-solving calculations.
